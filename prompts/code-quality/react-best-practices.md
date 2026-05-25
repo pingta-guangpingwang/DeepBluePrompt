@@ -20,6 +20,7 @@ version: 1.0
 created: 2026-05-20
 updated: 2026-05-20
 summary: React + TypeScript 编码规范，覆盖组件设计、Hooks使用、状态管理、性能优化等核心实践
+summary_en: React + TypeScript coding standards covering component design, Hooks usage, state management, and performance optimization best practices
 ---
 
 # React 编码最佳实践

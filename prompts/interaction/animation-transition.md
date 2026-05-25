@@ -21,6 +21,7 @@ version: 1.0
 created: 2026-05-25
 updated: 2026-05-25
 summary: 使用 CSS Transition 和 Framer Motion 设计流畅的页面过渡、组件动画和微交互效果
+summary_en: Design fluid page transitions, component animations, and micro-interactions using CSS Transition and Framer Motion
 ---
 
 # 动画与过渡效果指南

@@ -20,6 +20,7 @@ version: 1.0
 created: 2026-05-20
 updated: 2026-05-20
 summary: 采用移动优先策略设计响应式布局，使用CSS Grid做主框架、Flexbox处理组件内排列，搭配Tailwind断点实现多端自适应
+summary_en: Mobile-first responsive layout using CSS Grid for the main framework and Flexbox for component alignment, with Tailwind breakpoints for multi-device adaptation
 ---
 
 # 响应式布局设计

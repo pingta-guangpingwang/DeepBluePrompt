@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T04:35:34Z",
+  "updated": "2026-05-25T14:19:26Z",
   "items": [
     {
       "id": "prompt-code-001",
@@ -18,6 +18,7 @@
       "score": 4.9,
       "source_url": "",
       "summary": "React + TypeScript 编码规范，覆盖组件设计、Hooks使用、状态管理、性能优化等核心实践",
+      "summary_en": "React + TypeScript coding standards covering component design, Hooks usage, state management, and performance optimization best practices",
       "file": "prompts/code-quality/react-best-practices.md"
     },
     {
@@ -40,6 +41,7 @@
       "score": 4.8,
       "source_url": "",
       "summary": "采用移动优先策略设计响应式布局，使用CSS Grid做主框架、Flexbox处理组件内排列，搭配Tailwind断点实现多端自适应",
+      "summary_en": "Mobile-first responsive layout using CSS Grid for the main framework and Flexbox for component alignment, with Tailwind breakpoints for multi-device adaptation",
       "file": "prompts/ui-design/layout-responsive.md"
     },
     {
@@ -61,6 +63,7 @@
       "score": 4.8,
       "source_url": "",
       "summary": "极简主义设计风格的完整提示词模板，强调留白、克制配色、清晰层级",
+      "summary_en": "Minimalist design style prompt template emphasizing white space, restrained color palettes, and clear visual hierarchy",
       "file": "prompts/style-presets/minimal-clean.md"
     },
     {
@@ -79,6 +82,7 @@
       "score": 4.7,
       "source_url": "",
       "summary": "TypeScript 命名规范与类型设计指南，覆盖变量、函数、接口、枚举、泛型等命名约定",
+      "summary_en": "TypeScript naming conventions and type design guide covering variables, functions, interfaces, enums, generics, and more",
       "file": "prompts/code-quality/naming-conventions.md"
     },
     {
@@ -100,6 +104,7 @@
       "score": 4.7,
       "source_url": "",
       "summary": "完整的表单校验、提交反馈、错误提示交互设计，包含前端校验和异步提交状态管理",
+      "summary_en": "Complete form validation, submission feedback, and error handling interaction design with client-side validation and async submission state management",
       "file": "prompts/interaction/form-validation.md"
     },
     {
@@ -122,6 +127,7 @@
       "score": 4.7,
       "source_url": "",
       "summary": "企业级商务风格设计模板，稳重配色、清晰信息层级、专业排版",
+      "summary_en": "Enterprise-grade business style design template with restrained colors, clear information hierarchy, and professional typography",
       "file": "prompts/style-presets/business-pro.md"
     },
     {
@@ -142,6 +148,7 @@
       "score": 4.6,
       "source_url": "",
       "summary": "设计专业的暗色主题配色体系，使用CSS变量管理色彩层级，确保WCAG AA级对比度标准，支持亮/暗双模式切换",
+      "summary_en": "Professional dark theme color system using CSS variables for color hierarchy management, ensuring WCAG AA contrast standards with light/dark mode switching",
       "file": "prompts/ui-design/color-theme-dark.md"
     },
     {
@@ -163,6 +170,7 @@
       "score": 4.6,
       "source_url": "",
       "summary": "使用 CSS Transition 和 Framer Motion 设计流畅的页面过渡、组件动画和微交互效果",
+      "summary_en": "Design fluid page transitions, component animations, and micro-interactions using CSS Transition and Framer Motion",
       "file": "prompts/interaction/animation-transition.md"
     },
     {
@@ -185,6 +193,7 @@
       "score": 4.5,
       "source_url": "",
       "summary": "赛博朋克科技风格设计模板，霓虹灯效果、深色背景、发光边框、科技感配色",
+      "summary_en": "Cyberpunk sci-fi style design template with neon glow effects, dark backgrounds, luminous borders, and futuristic color schemes",
       "file": "prompts/style-presets/cyberpunk-tech.md"
     }
   ]

@@ -19,6 +19,7 @@ version: 1.0
 created: 2026-05-20
 updated: 2026-05-20
 summary: TypeScript 命名规范与类型设计指南，覆盖变量、函数、接口、枚举、泛型等命名约定
+summary_en: TypeScript naming conventions and type design guide covering variables, functions, interfaces, enums, generics, and more
 ---
 
 # TypeScript 命名与类型规范

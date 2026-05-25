@@ -21,6 +21,7 @@ version: 1.0
 created: 2026-05-25
 updated: 2026-05-25
 summary: 完整的表单校验、提交反馈、错误提示交互设计，包含前端校验和异步提交状态管理
+summary_en: Complete form validation, submission feedback, and error handling interaction design with client-side validation and async submission state management
 ---
 
 # 表单校验与提交交互

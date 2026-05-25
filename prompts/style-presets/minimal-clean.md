@@ -21,6 +21,7 @@ version: 1.0
 created: 2026-05-25
 updated: 2026-05-25
 summary: 极简主义设计风格的完整提示词模板，强调留白、克制配色、清晰层级
+summary_en: Minimalist design style prompt template emphasizing white space, restrained color palettes, and clear visual hierarchy
 ---
 
 # 极简风格设计模板
