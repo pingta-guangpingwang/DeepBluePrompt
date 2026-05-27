@@ -21,6 +21,22 @@ created: 2026-05-20
 updated: 2026-05-20
 summary: 设计专业的暗色主题配色体系，使用CSS变量管理色彩层级，确保WCAG AA级对比度标准，支持亮/暗双模式切换
 summary_en: Professional dark theme color system using CSS variables for color hierarchy management, ensuring WCAG AA contrast standards with light/dark mode switching
+facets:
+  role:
+    - R010
+    - R040
+  domain:
+    - D010
+  task:
+    - T053
+  tech:
+    - K030
+  paradigm:
+    - P043
+  format:
+    - F010
+  level:
+    - L020
 ---
 
 # 暗色主题配色方案

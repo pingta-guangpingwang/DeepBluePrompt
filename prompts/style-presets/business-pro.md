@@ -22,6 +22,23 @@ created: 2026-05-25
 updated: 2026-05-25
 summary: 企业级商务风格设计模板，稳重配色、清晰信息层级、专业排版
 summary_en: Enterprise-grade business style design template with restrained colors, clear information hierarchy, and professional typography
+facets:
+  role:
+    - R010
+    - R040
+  domain:
+    - D091
+  task:
+    - T053
+  tech:
+    - K030
+    - K011
+  paradigm:
+    - P043
+  format:
+    - F010
+  level:
+    - L030
 ---
 
 # 商务稳重风格模板

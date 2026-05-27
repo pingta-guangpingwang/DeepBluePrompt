@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T14:19:26Z",
+  "updated": "2026-05-27T12:52:54.749Z",
   "total": 9,
   "items": [
     {
@@ -28,7 +28,31 @@
       "source_url": "",
       "summary": "React + TypeScript 编码规范，覆盖组件设计、Hooks使用、状态管理、性能优化等核心实践",
       "summary_en": "React + TypeScript coding standards covering component design, Hooks usage, state management, and performance optimization best practices",
-      "file": "prompts/code-quality/react-best-practices.md"
+      "file": "prompts/code-quality/react-best-practices.md",
+      "facets": {
+        "role": [
+          "R010"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T072"
+        ],
+        "tech": [
+          "K030",
+          "K011"
+        ],
+        "paradigm": [
+          "P064"
+        ],
+        "format": [
+          "F053"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     },
     {
       "id": "prompt-ui-001",
@@ -59,7 +83,32 @@
       "source_url": "",
       "summary": "采用移动优先策略设计响应式布局，使用CSS Grid做主框架、Flexbox处理组件内排列，搭配Tailwind断点实现多端自适应",
       "summary_en": "Mobile-first responsive layout using CSS Grid for the main framework and Flexbox for component alignment, with Tailwind breakpoints for multi-device adaptation",
-      "file": "prompts/ui-design/layout-responsive.md"
+      "file": "prompts/ui-design/layout-responsive.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R040"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T053"
+        ],
+        "tech": [
+          "K030",
+          "K011"
+        ],
+        "paradigm": [
+          "P043"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     },
     {
       "id": "prompt-style-001",
@@ -90,7 +139,32 @@
       "source_url": "",
       "summary": "极简主义设计风格的完整提示词模板，强调留白、克制配色、清晰层级",
       "summary_en": "Minimalist design style prompt template emphasizing white space, restrained color palettes, and clear visual hierarchy",
-      "file": "prompts/style-presets/minimal-clean.md"
+      "file": "prompts/style-presets/minimal-clean.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R040"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T053"
+        ],
+        "tech": [
+          "K030",
+          "K011"
+        ],
+        "paradigm": [
+          "P043"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     },
     {
       "id": "prompt-code-002",
@@ -116,7 +190,31 @@
       "source_url": "",
       "summary": "TypeScript 命名规范与类型设计指南，覆盖变量、函数、接口、枚举、泛型等命名约定",
       "summary_en": "TypeScript naming conventions and type design guide covering variables, functions, interfaces, enums, generics, and more",
-      "file": "prompts/code-quality/naming-conventions.md"
+      "file": "prompts/code-quality/naming-conventions.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R011"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T080"
+        ],
+        "tech": [
+          "K011"
+        ],
+        "paradigm": [
+          "P064"
+        ],
+        "format": [
+          "F053"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     },
     {
       "id": "prompt-int-001",
@@ -147,7 +245,31 @@
       "source_url": "",
       "summary": "完整的表单校验、提交反馈、错误提示交互设计，包含前端校验和异步提交状态管理",
       "summary_en": "Complete form validation, submission feedback, and error handling interaction design with client-side validation and async submission state management",
-      "file": "prompts/interaction/form-validation.md"
+      "file": "prompts/interaction/form-validation.md",
+      "facets": {
+        "role": [
+          "R010"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T054"
+        ],
+        "tech": [
+          "K030",
+          "K011"
+        ],
+        "paradigm": [
+          "P042"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     },
     {
       "id": "prompt-style-003",
@@ -179,7 +301,32 @@
       "source_url": "",
       "summary": "企业级商务风格设计模板，稳重配色、清晰信息层级、专业排版",
       "summary_en": "Enterprise-grade business style design template with restrained colors, clear information hierarchy, and professional typography",
-      "file": "prompts/style-presets/business-pro.md"
+      "file": "prompts/style-presets/business-pro.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R040"
+        ],
+        "domain": [
+          "D091"
+        ],
+        "task": [
+          "T053"
+        ],
+        "tech": [
+          "K030",
+          "K011"
+        ],
+        "paradigm": [
+          "P043"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     },
     {
       "id": "prompt-ui-002",
@@ -208,7 +355,31 @@
       "source_url": "",
       "summary": "设计专业的暗色主题配色体系，使用CSS变量管理色彩层级，确保WCAG AA级对比度标准，支持亮/暗双模式切换",
       "summary_en": "Professional dark theme color system using CSS variables for color hierarchy management, ensuring WCAG AA contrast standards with light/dark mode switching",
-      "file": "prompts/ui-design/color-theme-dark.md"
+      "file": "prompts/ui-design/color-theme-dark.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R040"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T053"
+        ],
+        "tech": [
+          "K030"
+        ],
+        "paradigm": [
+          "P043"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L020"
+        ]
+      }
     },
     {
       "id": "prompt-int-002",
@@ -239,7 +410,32 @@
       "source_url": "",
       "summary": "使用 CSS Transition 和 Framer Motion 设计流畅的页面过渡、组件动画和微交互效果",
       "summary_en": "Design fluid page transitions, component animations, and micro-interactions using CSS Transition and Framer Motion",
-      "file": "prompts/interaction/animation-transition.md"
+      "file": "prompts/interaction/animation-transition.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R040",
+          "R043"
+        ],
+        "domain": [
+          "D010"
+        ],
+        "task": [
+          "T053"
+        ],
+        "tech": [
+          "K030"
+        ],
+        "paradigm": [
+          "P043"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L033"
+        ]
+      }
     },
     {
       "id": "prompt-style-002",
@@ -271,7 +467,31 @@
       "source_url": "",
       "summary": "赛博朋克科技风格设计模板，霓虹灯效果、深色背景、发光边框、科技感配色",
       "summary_en": "Cyberpunk sci-fi style design template with neon glow effects, dark backgrounds, luminous borders, and futuristic color schemes",
-      "file": "prompts/style-presets/cyberpunk-tech.md"
+      "file": "prompts/style-presets/cyberpunk-tech.md",
+      "facets": {
+        "role": [
+          "R010",
+          "R040"
+        ],
+        "domain": [
+          "D080"
+        ],
+        "task": [
+          "T053"
+        ],
+        "tech": [
+          "K030"
+        ],
+        "paradigm": [
+          "P043"
+        ],
+        "format": [
+          "F010"
+        ],
+        "level": [
+          "L030"
+        ]
+      }
     }
   ]
 }
