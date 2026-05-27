@@ -23,21 +23,20 @@ updated: 2026-05-25
 summary: 赛博朋克科技风格设计模板，霓虹灯效果、深色背景、发光边框、科技感配色
 summary_en: Cyberpunk sci-fi style design template with neon glow effects, dark backgrounds, luminous borders, and futuristic color schemes
 facets:
-  role:
-    - R010
-    - R040
-  domain:
-    - D080
-  task:
-    - T053
-  tech:
-    - K030
-  paradigm:
-    - P043
+  occupation:
+    - O216
+    - O265
+  skill:
+    - S91
+    - S54
+  knowledge:
+    - K10
+  transversal:
+    - T14
   format:
-    - F010
+    - F01
   level:
-    - L030
+    - L02
 ---
 
 # 科技赛博朋克风格

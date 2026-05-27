@@ -22,21 +22,20 @@ updated: 2026-05-20
 summary: React + TypeScript 编码规范，覆盖组件设计、Hooks使用、状态管理、性能优化等核心实践
 summary_en: React + TypeScript coding standards covering component design, Hooks usage, state management, and performance optimization best practices
 facets:
-  role:
-    - R010
-  domain:
-    - D010
-  task:
-    - T072
-  tech:
-    - K030
-    - K011
-  paradigm:
-    - P064
+  occupation:
+    - O251
+  skill:
+    - S52
+    - S54
+    - S91
+  knowledge:
+    - K01
+  transversal:
+    - T41
   format:
-    - F053
+    - F01
   level:
-    - L030
+    - L03
 ---
 
 # React 编码最佳实践

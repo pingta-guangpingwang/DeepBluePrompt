@@ -23,22 +23,21 @@ updated: 2026-05-25
 summary: 使用 CSS Transition 和 Framer Motion 设计流畅的页面过渡、组件动画和微交互效果
 summary_en: Design fluid page transitions, component animations, and micro-interactions using CSS Transition and Framer Motion
 facets:
-  role:
-    - R010
-    - R040
-    - R043
-  domain:
-    - D010
-  task:
-    - T053
-  tech:
-    - K030
-  paradigm:
-    - P043
+  occupation:
+    - O216
+    - O251
+    - O265
+  skill:
+    - S54
+    - S91
+  knowledge:
+    - K10
+  transversal:
+    - T14
   format:
-    - F010
+    - F01
   level:
-    - L033
+    - L03
 ---
 
 # 动画与过渡效果指南

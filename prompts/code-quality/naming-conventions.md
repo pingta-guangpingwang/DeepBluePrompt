@@ -21,21 +21,20 @@ updated: 2026-05-20
 summary: TypeScript 命名规范与类型设计指南，覆盖变量、函数、接口、枚举、泛型等命名约定
 summary_en: TypeScript naming conventions and type design guide covering variables, functions, interfaces, enums, generics, and more
 facets:
-  role:
-    - R010
-    - R011
-  domain:
-    - D010
-  task:
-    - T080
-  tech:
-    - K011
-  paradigm:
-    - P064
+  occupation:
+    - O25
+    - O251
+  skill:
+    - S52
+    - S125
+  knowledge:
+    - K01
+  transversal:
+    - T41
   format:
-    - F053
+    - F01
   level:
-    - L030
+    - L03
 ---
 
 # TypeScript 命名与类型规范

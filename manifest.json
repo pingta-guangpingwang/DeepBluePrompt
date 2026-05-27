@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T12:52:54.749Z",
+  "updated": "2026-05-27T14:02:22.796Z",
   "total": 9,
   "items": [
     {
@@ -30,27 +30,25 @@
       "summary_en": "React + TypeScript coding standards covering component design, Hooks usage, state management, and performance optimization best practices",
       "file": "prompts/code-quality/react-best-practices.md",
       "facets": {
-        "role": [
-          "R010"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S52",
+          "S54",
+          "S91"
         ],
-        "task": [
-          "T072"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K030",
-          "K011"
-        ],
-        "paradigm": [
-          "P064"
+        "transversal": [
+          "T41"
         ],
         "format": [
-          "F053"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L03"
         ]
       }
     },
@@ -85,28 +83,26 @@
       "summary_en": "Mobile-first responsive layout using CSS Grid for the main framework and Flexbox for component alignment, with Tailwind breakpoints for multi-device adaptation",
       "file": "prompts/ui-design/layout-responsive.md",
       "facets": {
-        "role": [
-          "R010",
-          "R040"
+        "occupation": [
+          "O251",
+          "O216"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S54",
+          "S91"
         ],
-        "task": [
-          "T053"
+        "knowledge": [
+          "K01",
+          "K10"
         ],
-        "tech": [
-          "K030",
-          "K011"
-        ],
-        "paradigm": [
-          "P043"
+        "transversal": [
+          "T12"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L03"
         ]
       }
     },
@@ -141,28 +137,25 @@
       "summary_en": "Minimalist design style prompt template emphasizing white space, restrained color palettes, and clear visual hierarchy",
       "file": "prompts/style-presets/minimal-clean.md",
       "facets": {
-        "role": [
-          "R010",
-          "R040"
+        "occupation": [
+          "O216",
+          "O243",
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S91"
         ],
-        "task": [
-          "T053"
+        "knowledge": [
+          "K10"
         ],
-        "tech": [
-          "K030",
-          "K011"
-        ],
-        "paradigm": [
-          "P043"
+        "transversal": [
+          "T14"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L02"
         ]
       }
     },
@@ -192,27 +185,25 @@
       "summary_en": "TypeScript naming conventions and type design guide covering variables, functions, interfaces, enums, generics, and more",
       "file": "prompts/code-quality/naming-conventions.md",
       "facets": {
-        "role": [
-          "R010",
-          "R011"
+        "occupation": [
+          "O25",
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S52",
+          "S125"
         ],
-        "task": [
-          "T080"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K011"
-        ],
-        "paradigm": [
-          "P064"
+        "transversal": [
+          "T41"
         ],
         "format": [
-          "F053"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L03"
         ]
       }
     },
@@ -247,27 +238,24 @@
       "summary_en": "Complete form validation, submission feedback, and error handling interaction design with client-side validation and async submission state management",
       "file": "prompts/interaction/form-validation.md",
       "facets": {
-        "role": [
-          "R010"
+        "occupation": [
+          "O251"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S52",
+          "S125"
         ],
-        "task": [
-          "T054"
+        "knowledge": [
+          "K01"
         ],
-        "tech": [
-          "K030",
-          "K011"
-        ],
-        "paradigm": [
-          "P042"
+        "transversal": [
+          "T41"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L02"
         ]
       }
     },
@@ -303,28 +291,25 @@
       "summary_en": "Enterprise-grade business style design template with restrained colors, clear information hierarchy, and professional typography",
       "file": "prompts/style-presets/business-pro.md",
       "facets": {
-        "role": [
-          "R010",
-          "R040"
+        "occupation": [
+          "O216",
+          "O243"
         ],
-        "domain": [
-          "D091"
+        "skill": [
+          "S91",
+          "S93"
         ],
-        "task": [
-          "T053"
+        "knowledge": [
+          "K10"
         ],
-        "tech": [
-          "K030",
-          "K011"
-        ],
-        "paradigm": [
-          "P043"
+        "transversal": [
+          "T14"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L02"
         ]
       }
     },
@@ -357,27 +342,24 @@
       "summary_en": "Professional dark theme color system using CSS variables for color hierarchy management, ensuring WCAG AA contrast standards with light/dark mode switching",
       "file": "prompts/ui-design/color-theme-dark.md",
       "facets": {
-        "role": [
-          "R010",
-          "R040"
+        "occupation": [
+          "O216"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S91",
+          "S54"
         ],
-        "task": [
-          "T053"
+        "knowledge": [
+          "K10"
         ],
-        "tech": [
-          "K030"
-        ],
-        "paradigm": [
-          "P043"
+        "transversal": [
+          "T14"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L020"
+          "L02"
         ]
       }
     },
@@ -412,28 +394,26 @@
       "summary_en": "Design fluid page transitions, component animations, and micro-interactions using CSS Transition and Framer Motion",
       "file": "prompts/interaction/animation-transition.md",
       "facets": {
-        "role": [
-          "R010",
-          "R040",
-          "R043"
+        "occupation": [
+          "O216",
+          "O251",
+          "O265"
         ],
-        "domain": [
-          "D010"
+        "skill": [
+          "S54",
+          "S91"
         ],
-        "task": [
-          "T053"
+        "knowledge": [
+          "K10"
         ],
-        "tech": [
-          "K030"
-        ],
-        "paradigm": [
-          "P043"
+        "transversal": [
+          "T14"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L033"
+          "L03"
         ]
       }
     },
@@ -469,27 +449,25 @@
       "summary_en": "Cyberpunk sci-fi style design template with neon glow effects, dark backgrounds, luminous borders, and futuristic color schemes",
       "file": "prompts/style-presets/cyberpunk-tech.md",
       "facets": {
-        "role": [
-          "R010",
-          "R040"
+        "occupation": [
+          "O216",
+          "O265"
         ],
-        "domain": [
-          "D080"
+        "skill": [
+          "S91",
+          "S54"
         ],
-        "task": [
-          "T053"
+        "knowledge": [
+          "K10"
         ],
-        "tech": [
-          "K030"
-        ],
-        "paradigm": [
-          "P043"
+        "transversal": [
+          "T14"
         ],
         "format": [
-          "F010"
+          "F01"
         ],
         "level": [
-          "L030"
+          "L02"
         ]
       }
     }
